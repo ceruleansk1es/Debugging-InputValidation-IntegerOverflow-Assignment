@@ -1,5 +1,7 @@
 # Debugging-InputValidation-IntegerOverflow-Assignment
 
+[*Note: Application of assignment to potential SUPER project - The various functions in this assignment, while utilitarian/basic, focus on input validation and error handling. These techniques can be applied to real-world sensor systems, where data may be missing, malformed, or outside expected ranges. By preventing invalid inputs and handling edge cases like overflow, this work supports ensuring acceptable data quality and preventing issues from training machine learning with bad data.]
+
 CSCE 120 homework assignment, completion of various functions in C++
 The file functions.cpp is where code was actually created.
 
